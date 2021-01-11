@@ -20,7 +20,7 @@ public class Executors_Multithread {
 				lista.add(new Tarefa());
 			}
 					
-//			String string = executor.invokeAny(lista);
+//			String  string = executor.invokeAny(lista);
 //			System.out.println(string);
 			
 			//List<Future<String>> list = executor.invokeAll(List.of(t1,t2,t3,t4));
